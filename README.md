@@ -18,7 +18,7 @@ Cor do badge: 3D7BF7
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Strong-Password-05.10.23-3D7BF7?style=for-the-badge&labelColor=3D7BF7">
+    <img src="https://img.shields.io/badge/Strong_Password-05.10.23-3D7BF7?style=for-the-badge&labelColor=3D7BF7">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/strong_password?style=for-the-badge&label=last%20commit:&labelColor=3D7BF7&color=3D7BF7">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-3D7BF7?style=for-the-badge&labelColor=3D7BF7&color=3D7BF7">
 </p>

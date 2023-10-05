@@ -1,0 +1,19 @@
+name: strong_password
+description: personal project I created to show a user in a friendly way whether their password is strong or weak
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

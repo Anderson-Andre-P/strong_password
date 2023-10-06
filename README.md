@@ -50,7 +50,10 @@ This app is an personal project I created to show a user in a friendly way wheth
 
 #### Functionalities
 
-1. **Content Exploration:** Explore a wide variety of Strong-Password and TV shows directly from the IMDb database.
+1. **Field Validation:** The login page includes validation on the email and password fields to ensure that the data entered is correct. Validations include:
+   - Valid email format check.
+   - Password Requirements.
+   - Clear error messages to indicate problems with fields.
 
 #### Main Achievements
 
